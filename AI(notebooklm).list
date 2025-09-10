@@ -7,6 +7,18 @@ DOMAIN-KEYWORD,notebooklm
 DOMAIN-KEYWORD,wordware
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,googletagmanager
+# 域名匹配
+DOMAIN,ai.google.dev
+DOMAIN,aistudio.google.com
+DOMAIN,api.githubcopilot.com
+DOMAIN,api.groq.com
+DOMAIN,api.together.xyz
+DOMAIN,bard.google.com
+DOMAIN,console.groq.com
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,gemini.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,sydney.bing.com
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
@@ -34,3 +46,5 @@ DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,skywork.ai
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,makersuite.google.com
